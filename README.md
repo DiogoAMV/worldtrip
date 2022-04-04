@@ -1,3 +1,8 @@
+<p align="center">
+   <img src="preview.jpg" alt="WorldTrip" width="280"/>
+</p>
+
+
 <h3 align="center">
   Desafio Ignite - Interface com Chakra UI
 </h3>
